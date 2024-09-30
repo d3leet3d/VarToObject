@@ -16,6 +16,8 @@ local data = {
         }
     }
 }
+local root = VarToObject.new("PlayerData", data)
+root.Parent = workspace  -- Or any other appropriate parent
 ```
 ```yaml
 PlayerData (Folder)
