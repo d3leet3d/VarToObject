@@ -1,5 +1,4 @@
 --https://github.com/d3leet3d/VarToObject
-
 local VarToObject = {}
 
 VarToObject.VarTypes = {
